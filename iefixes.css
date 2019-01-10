@@ -1,0 +1,39 @@
+/** IE9 Fixes**/
+.ie9 h1.main-header, .ie9 .updates, .ie9 h1.sidebar-header, .ie9 h1.extras-header { font-size: 16px !important;}
+.ie9 .tabs a, .ie9 .tabs a:hover, .ie9 .tabs a.current { padding: 14px 31px 18px 31px !important; font-size: 16px !important;}
+.ie9 .latest-entry .post-details .entry-title { font-size: 21px !important;}
+.ie9 .first-layer-footer h1 { font-size: 24px !important;}
+.ie9 .entry-title, .ie9 .page-title { font-weight: bold !important;}
+.ie9 h3#comments, .ie9 h2.album-title { font-size: 24px !important; font-weight: bold !important;}
+.ie9 .footer-comments { margin-top: 6px !important;}
+.ie9 .contact-txtbox, .ie9 .contact-txtarea, .ie9 .contact-anti-spam-txtbox { border-radius: 3px 3px 5px 5px !important;}
+.ie9 .contact-us .email-us { margin-top: 0 !important;}
+.ie9 .current-user-info ul li#add_new_post .add-new-post { padding: 8px 10px 12px !important; font-size: 20px !important;}
+.ie9 .login-btn, .ie9 .register-btn { border-radius: 0 !important; padding-top: 3px !important; font-size: 22px !important;}
+.ie9 ul.contact-anti-spam li#anti-spam-label { font-size: 18px !important;}
+.ie9 .footer-navigation ul a { font-size: 11px !important;}
+
+/** IE8 Fixes**/
+.ie8 .login-txtbox { padding-top: 12px !important; height: 33px !important;}
+.ie8 h1.main-header, .ie8 .updates, .ie8 h1.sidebar-header, .ie8 h1.extras-header { padding: 12px 0 2px 13px !important; font-size: 16px !important;}
+.ie8 .tabs a, .ie8 .tabs a:hover, .ie8 .tabs a.current { padding: 14px 31px 18px 31px !important; font-size: 16px !important;}
+.ie8 .latest-entry .post-details .entry-title { font-size: 21px !important;}
+.ie8 .first-layer-footer h1 { font-size: 24px !important;}
+.ie8 h3#comments, .ie8 h2.album-title { font-size: 24px !important; font-weight: bold !important;}
+.ie8 .footer-comments { margin-top: 6px !important;}
+.ie8 .current-user-info ul li#add_new_post .add-new-post { padding: 8px 10px 12px !important; font-size: 20px !important;}
+.ie8 .login-btn, .ie8 .register-btn { padding-top: 3px !important; font-size: 22px !important;}
+.ie8 .contact-txtbox { padding-top: 10px !important; height: 25px !important;}
+.ie8 ul.contact-anti-spam li#anti-spam-label { font-size: 18px !important;}
+.ie8 .contact-anti-spam-txtbox { padding-top: 5px !important; height: 30px !important; font-size: 18px !important;}
+.ie8 .footer-navigation ul a { font-size: 11px !important;}
+
+/** IE7 Fixes**/
+.ie7 .login-txtbox { padding-top: 12px !important; height: 33px !important;}
+.ie7 .login-btn, .ie7 .register-btn { padding-top: 3px !important; font-size: 22px !important; border: 1px solid #d44400 !important;}
+.ie7 h1.main-header, .ie7 .updates, .ie7 h1.sidebar-header, .ie7 h1.extras-header { font-size: 16px !important;}
+.ie7 .tabs a, .ie7 .tabs a:hover, .ie7 .tabs a.current { padding: 14px 31px 18px 31px !important; font-size: 16px !important;}
+.ie7 .latest-entry .post-details .entry-title { font-size: 21px !important;}
+.ie7 .contact-submitbutton, .ie7 .submit-comment { border: 1px solid #d44400 !important;}
+.ie7 .contact-txtbox, .ie7 .contact-txtarea { border-bottom: 1px solid #4e4e4e !important;}
+.ie7 .current-user-info ul li#add_new_post .add-new-post { padding: 8px 10px 12px !important; font-size: 20px !important;}
